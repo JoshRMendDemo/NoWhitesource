@@ -1,5 +1,10 @@
 {
   "settingsInheritedFrom": "JoshRMendDemo/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "AUTO",
+    "enableLicenseViolations": true,
+    "baseBranches": []
+  },
     "scanSettingsSAST": {
     "enableScan": false,
     "scanPullRequests": false,
