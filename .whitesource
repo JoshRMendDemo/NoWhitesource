@@ -1,0 +1,10 @@
+{
+  "settingsInheritedFrom": "JoshRMendDemo/whitesource-config@main",
+    "scanSettingsSAST": {
+    "enableScan": false,
+    "scanPullRequests": false,
+    "incrementalScan": true,
+    "baseBranches": [],
+    "snippetSize": 10
+  }
+}
