@@ -6,5 +6,9 @@
     "incrementalScan": true,
     "baseBranches": [],
     "snippetSize": 10
+  },
+  "issueSettings": {
+    "minSeverityLevel": "HIGH",
+    "issueType": "DEPENDENCY"
   }
 }
